@@ -8,3 +8,6 @@ def get_email():
 
 def get_senha():
     return base64.b64decode(senha_criptografada.encode()).decode()
+
+def get_senha_errada():
+    return "Senha_incorreta_AQUI_123"
