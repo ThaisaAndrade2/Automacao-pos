@@ -1,4 +1,4 @@
-Feature: Nesse arquivo estamos realizando fluxos basicos no site da C&A
+Feature: Nesse arquivo estamos realizando fluxos basicos no site da C&A para a pós Gradução do curso de Automação de Testes
 
   @HappyFlow
   Scenario Outline: Buscar diferentes produtos na barra de pesquisa
